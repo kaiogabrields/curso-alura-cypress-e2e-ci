@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+      {
+        "name": "Stephen Strange",
+        "email": "strange@sanctum.com",
+        "password": "Shambala1!"
+      },
+      {
+        "name": "Wanda Maximoff",
+        "email": "scarlet.witch@wakanda.org",
+        "password": "ChaosMagic#123"
+      },
+      {
+        "name": "T'Challa",
+        "email": "blackpanther@wakanda.org",
+        "password": "WakandaForever!"
+      },
+      {
+        "name": "Sam Wilson",
+        "email": "falcon@shield.net",
+        "password": "Redwing2024"
+      },
+      {
+        "name": "Bucky Barnes",
+        "email": "winter.soldier@shield.net",
+        "password": "MetalArm17"
+      },
+      {
+        "name": "Loki Laufeyson",      
+        "email": "loki@asgard.com",
+        "password": "IGotTheTesseract"
+      }
+    ]
+  }
